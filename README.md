@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Omona Emmanuel, professionally a Mechanical Engineering Technician and a Java programming practitioner.
+- 👋 Hi, I’m Omona Emmanuel, professionally a Mechanical Engineering Technician and a Software programming practitioner.
 - 👀 I’m interested in Mathematics, Martial art, Art and Design, Gym and Driving.
-- 🌱 I’m currently learning Forex Trading, Software Engineering/development and recap in Java programming masterclass.
+- 🌱 I’m currently learning Software Engineering/development.
 - 💞️ I’m looking to collaborate on any software development projects, learning and teaching.
-- 📫 How to reach me is simply by email: omonaelite@gmail.com
+- 📫 How to reach me is simply by email: omonaemm555@gmail.com | omonaemman@gmail.com
 
 <!---
 OMONa-E/OMONa-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
