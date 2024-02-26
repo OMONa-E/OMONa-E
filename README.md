@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Omona Emmanuel, professionally a Mechanical Engineering Technician and a Software programming practitioner.
+- 👋 Hi, I’m Omona Emmanuel, a Mechanical Engineering Technician and a Computer science bias in Web development and AI/ML.
 - 👀 I’m interested in Mathematics, Martial art, Art and Design, Gym and Driving.
-- 🌱 I’m currently learning Software Engineering/development.
 - 💞️ I’m looking to collaborate on any software development projects, learning and teaching.
 - 📫 How to reach me is simply by email: omonaemm555@gmail.com | omonaemman@gmail.com
 
