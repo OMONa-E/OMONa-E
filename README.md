@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omona Emmanuel.
-- 👀 I’m interested in Mathematics and Computer Science.
+- 👀 I’m in Mathematics and Computer Science and Mechantronic Engineering.
 - 📫 How to reach me is simply by email: omonaemm555@gmail.com | omonaemman@gmail.com
 
 <!---
